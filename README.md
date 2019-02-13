@@ -1,5 +1,4 @@
 # Corporate-Website
-# Questioner_API
 
 [![Build Status](https://travis-ci.org/Mudanya/Corporate-Website.svg?branch=gh-page)](https://travis-ci.com/Mudanya/Corporate-Website)
 [![Coverage Status](https://coveralls.io/repos/github/Mudanya/Corporate-Website/badge.svg?branch=develop)](https://coveralls.io/github/Mudanya/Corporate-Website?branch=gh-page)
